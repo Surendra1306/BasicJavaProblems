@@ -19,7 +19,6 @@ for(int i=ch.length-1;i>=0;i--) {
 }
 System.out.println(rev);
 
-
 StringBuilder str1= new StringBuilder();	//using stringBuider method
 String str2=sc.nextLine();
 str1.append(str2);
